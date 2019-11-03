@@ -1,0 +1,9 @@
+node_modules
+dist
+.idea
+.vscode
+.nyc_output
+results
+npm-debug.log
+coverage
+.DS_Store
